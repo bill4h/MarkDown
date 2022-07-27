@@ -117,9 +117,9 @@ Markdown具体的产生和历史，感兴趣的小伙伴可以自行了解。详
 > 代码区块是在代码的每行开头使用**制表符(Tab)**或**4个空格(space)**来表示。<br>
 #### 4.1 MD写法：
 
->~~(Tab)~~     public class HandsomeBoy{
->~~(4个space)~~     private final String name = "bill4h";
->~~(Tab)~~     }
+>~~(Tab)~~     public class HandsomeBoy{<br>
+>~~(4个space)~~     private final String name = "bill4h";<br>
+>~~(Tab)~~     }<br>
 
 #### 4.2 代码区块效果：
 
