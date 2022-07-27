@@ -4,8 +4,8 @@ Markdown是一种轻量级标记语言，创始人是约翰格鲁伯。它允许
   
 按我的理解，就是使用一些特定的符号，诸如：# = - ...等符号来修饰你的文本内容，使其能够在一些平台上会将其转换成XHTML或HTML的格式，更好地做内容输出。
    
-   具体的Markdown的产生和历史，感兴趣的小伙伴可以自行了解。<br>
-   这里推荐github上的younghz/Markdown(https://github.com/younghz/Markdown.git)   
+   Markdown具体的产生和历史，感兴趣的小伙伴可以自行了解。<br>
+   这里推荐github上的[younghz/Markdown](https://github.com/younghz/Markdown.git)   
 
 *PS：接下来在文中将使用**MD**来代指Markdown。*
 
