@@ -202,13 +202,13 @@ MD支持`无序列表`和`有序列表`。
 使用时，子列表选项前添加 **4个空格(space)**。
 
 > **嵌套列表**
->> `1. 流程 1`  
->> &nbsp;&nbsp;&nbsp;&nbsp;`- 流程 1 子列表`   
->> &nbsp;&nbsp;&nbsp;&nbsp;`- 流程 1 子列表`
+>> 1\. 流程 1  
+>> &nbsp;&nbsp;&nbsp;&nbsp;\- 流程 1 子列表  
+>> &nbsp;&nbsp;&nbsp;&nbsp;\- 流程 1 子列表  
 >>
->> `2. 列表内容 2`   
->> &nbsp;&nbsp;&nbsp;&nbsp;`- 流程 2 子列表`   
->> &nbsp;&nbsp;&nbsp;&nbsp;`- 流程 2 子列表`
+>> 2\. 列表内容 2   
+>> &nbsp;&nbsp;&nbsp;&nbsp;\- 流程 2 子列表  
+>> &nbsp;&nbsp;&nbsp;&nbsp;\- 流程 2 子列表
 
 
 >**效果：**
@@ -230,9 +230,9 @@ MD支持`无序列表`和`有序列表`。
 \> 文本内容
 
  **效果：**
-> 文本内容
-> 文本内容
->
+> 文本内容  
+> 文本内容  
+ 
 <br>
 
  **区块嵌套**
@@ -265,9 +265,9 @@ MD支持`无序列表`和`有序列表`。
   **代码区块**
  > 正常文本位置
  >
- > &nbsp;&nbsp;&nbsp;&nbsp; public class HandsomeBoy {
- > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;private final String name = "bill4h";
-> &nbsp;&nbsp;&nbsp;&nbsp; }
+ > &nbsp;&nbsp;&nbsp;&nbsp; public class HandsomeBoy {   
+ > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;private final String name = "bill4h";  
+ > &nbsp;&nbsp;&nbsp;&nbsp; }
  >
  >正常文本位置
  
@@ -282,10 +282,10 @@ MD支持`无序列表`和`有序列表`。
 使用**3个反引号(\```)**包裹代码,可以指定一种语言（非必须）。
 
  **3个反引号\```**
-> \```java
-> &nbsp;&nbsp;&nbsp;&nbsp; public class HandsomeBoy {
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;private final String name = "bill4h";
-> &nbsp;&nbsp;&nbsp;&nbsp; }
+> \```java   
+> &nbsp;&nbsp;&nbsp;&nbsp; public class HandsomeBoy {   
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;private final String name = "bill4h";   
+> &nbsp;&nbsp;&nbsp;&nbsp; }   
 > \```
 
 **效果：**
@@ -300,7 +300,7 @@ public class HandsomeBoy{
 
 ### 11.链接
 链接的使用方法：
-> **方法一：**
+> **方法一：**  
 > `[链接名称](链接地址)`
 >
 >
