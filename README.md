@@ -293,7 +293,7 @@ public class HandsomeBoy{
 > \[链接名称](链接地址)
 >
 >
->> 我的github：\[bill4h](https://github.com/bill4h) 
+>> 我的github：\[bill4h](https:/<span></span>/github.com/bill4h) 
 >> 
 > **效果**
 >> 我的github：[bill4h](https://github.com/bill4h) 
@@ -301,7 +301,7 @@ public class HandsomeBoy{
 > **方法二：**  
 >\<链接地址>
 >
->> \<https://github.com/bill4h>
+>> \<https:/<span></span>/github.com/bill4h>
 >
 > **效果**
 >> <https://github.com/bill4h>
@@ -311,7 +311,7 @@ public class HandsomeBoy{
 >>
 >> 我的github：\[bill4h]\[my_github]
 >> *`......(文中其他内容)`*
->> \[my_github]:https://github.com/bill4h` *`(文档末尾)`
+>> \[my_github]:https:/<span></span>/github.com/bill4h` *`(文档末尾)`
 >>
 >> *(这里的链接变量的赋值要放在文档的末尾，且不会显示在文档中）*
 >>
